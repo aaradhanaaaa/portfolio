@@ -1,4 +1,4 @@
-# 🌐 Aradhana Rani – Personal Portfolio
+# 🌐 Aradhana Rani – Portfolio
 
 A modern, responsive, and interactive portfolio website showcasing my journey as an **ECE student**, **Frontend Developer**, and **AI Enthusiast**.
 
@@ -126,9 +126,9 @@ Simply open `index.html` in your browser.
 
 ## 📬 Contact Me
 
-* 📧 Email: [aradhanarani@example.com](mailto:aradhanarani@example.com)
-* 💼 LinkedIn: [https://linkedin.com](https://linkedin.com)
-* 💻 GitHub: [https://github.com](https://github.com)
+* 📧 Email: aradhana.rani.738@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/aradhana-rani-174416295/
+* 💻 GitHub: https://github.com/aaradhanaaaa
 
 ---
 
